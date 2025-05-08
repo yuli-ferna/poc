@@ -52,3 +52,9 @@ $ npm run build
 
 This task will create a distribution version of the project
 inside your local `dist/` folder
+
+### Captures of Tokens list component
+
+
+<img src="public/assets/images/connect_wallet.png"/>
+<img src="public/assets/images/wallet_connected.png"/>
