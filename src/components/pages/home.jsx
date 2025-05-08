@@ -8,6 +8,7 @@ import Partnering from "../views/partnering";
 import JoinUs from "../views/joinUs";
 import Faqs from "../views/faqs";
 import Footer from "../views/footer";
+import TokenListSection from "../views/tokenListSection";
 
 function Home() {
 
@@ -15,6 +16,7 @@ function Home() {
     <div id='home'>
       <Navbar />
       <Hero />
+      <TokenListSection />
       <NyxCipher />
       <Advantage />
       <NyxToolkit />
